@@ -1,22 +1,20 @@
 # Sprezzari
 
-Bem-vindo à organização **Sprezzari**!
+Welcome to the **Sprezzari** organization!
 
-Nosso propósito é contribuir com o ecossistema de desenvolvimento brasileiro através da criação de **APIs**, **Libraries** e **soluções utilitárias** open-source para facilitar o desenvolvimento de projetos de todos os portes.
-
----
-
-## 🚀 Missão
-
-Desenvolver ferramentas práticas e de alto desempenho para auxiliar programadores brasileiros, visando **produtividade**, **simplicidade** e **qualidade**.
+Our purpose is to contribute to the Brazilian development ecosystem by creating open-source **APIs**, **Libraries**, and **utility solutions** that make it easier to develop projects of all sizes.
 
 ---
 
-## 🎯 Objetivos
+## 🚀 Mission
 
-* Criar **libraries reutilizáveis** para diferentes linguagens;
-* Criar **APIs públicas** de acesso simples e documentado;
-* Oferecer **soluções open-source** para a comunidade;
-* Incentivar colaboração e inovação no desenvolvimento de software.
+To develop practical, high-performance tools that support Brazilian developers, focusing on **productivity**, **simplicity**, and **quality**.
 
 ---
+
+## 🎯 Objectives
+
+* Create **reusable libraries** for different programming languages;
+* Develop **public APIs** with simple access and clear documentation;
+* Provide **open-source solutions** for the community;
+* Encourage collaboration and innovation in software development.
